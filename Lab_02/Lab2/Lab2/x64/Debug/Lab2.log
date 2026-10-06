@@ -1,0 +1,2 @@
+﻿  Receiver.cpp
+C:\Users\kkmat\Documents\OOP-Y2-KaiMathews\Lab_02\Lab2\Lab2\Receiver.cpp(15,13): error C2677: binary '-': no global operator found which takes type 'const Beacon' (or there is no acceptable conversion)

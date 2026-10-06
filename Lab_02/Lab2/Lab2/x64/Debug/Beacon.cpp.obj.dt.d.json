@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kkmat\\documents\\oop-y2-kaimathews\\lab_02\\lab2\\lab2\\beacon.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\kkmat\\documents\\oop-y2-kaimathews\\lab_02\\lab2\\lab2\\beacon.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
