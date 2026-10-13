@@ -1,0 +1,29 @@
+﻿  Enemy.cpp
+  Main.cpp
+  Generating Code...
+C:\Users\kkmat\Documents\OOP-Y2-KaiMathews\Lab_02\EnemyMemoryWaveLab\EnemyMemoryWaveLab\Main.cpp(10,26): error C2440: 'initializing': cannot convert from 'initializer list' to 'Enemy'
+      C:\Users\kkmat\Documents\OOP-Y2-KaiMathews\Lab_02\EnemyMemoryWaveLab\EnemyMemoryWaveLab\Main.cpp(10,26):
+      'Enemy::Enemy': no overloaded function could convert all the argument types
+          C:\Users\kkmat\Documents\OOP-Y2-KaiMathews\Lab_02\EnemyMemoryWaveLab\EnemyMemoryWaveLab\Enemy.h(17,1):
+          could be 'Enemy::Enemy(Enemy &&)'
+              C:\Users\kkmat\Documents\OOP-Y2-KaiMathews\Lab_02\EnemyMemoryWaveLab\EnemyMemoryWaveLab\Main.cpp(10,26):
+              'Enemy::Enemy(Enemy &&)': cannot convert argument 1 from 'int' to 'Enemy &&'
+                  C:\Users\kkmat\Documents\OOP-Y2-KaiMathews\Lab_02\EnemyMemoryWaveLab\EnemyMemoryWaveLab\Main.cpp(10,28):
+                  Reason: cannot convert from 'int' to 'Enemy'
+          C:\Users\kkmat\Documents\OOP-Y2-KaiMathews\Lab_02\EnemyMemoryWaveLab\EnemyMemoryWaveLab\Enemy.h(17,1):
+          or       'Enemy::Enemy(const Enemy &)'
+              C:\Users\kkmat\Documents\OOP-Y2-KaiMathews\Lab_02\EnemyMemoryWaveLab\EnemyMemoryWaveLab\Main.cpp(10,26):
+              'Enemy::Enemy(const Enemy &)': cannot convert argument 1 from 'int' to 'const Enemy &'
+                  C:\Users\kkmat\Documents\OOP-Y2-KaiMathews\Lab_02\EnemyMemoryWaveLab\EnemyMemoryWaveLab\Main.cpp(10,28):
+                  Reason: cannot convert from 'int' to 'const Enemy'
+          C:\Users\kkmat\Documents\OOP-Y2-KaiMathews\Lab_02\EnemyMemoryWaveLab\EnemyMemoryWaveLab\Main.cpp(10,26):
+          while trying to match the argument list '(int)'
+  
+C:\Users\kkmat\Documents\OOP-Y2-KaiMathews\Lab_02\EnemyMemoryWaveLab\EnemyMemoryWaveLab\Main.cpp(12,11): error C2143: syntax error: missing ';' before '<<'
+C:\Users\kkmat\Documents\OOP-Y2-KaiMathews\Lab_02\EnemyMemoryWaveLab\EnemyMemoryWaveLab\Main.cpp(12,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\kkmat\Documents\OOP-Y2-KaiMathews\Lab_02\EnemyMemoryWaveLab\EnemyMemoryWaveLab\Main.cpp(12,6): error C2371: 'std::cout': redefinition; different basic types
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\iostream(40,75):
+      see declaration of 'std::cout'
+  
+C:\Users\kkmat\Documents\OOP-Y2-KaiMathews\Lab_02\EnemyMemoryWaveLab\EnemyMemoryWaveLab\Main.cpp(12,11): error C2059: syntax error: '<<'
+C:\Users\kkmat\Documents\OOP-Y2-KaiMathews\Lab_02\EnemyMemoryWaveLab\EnemyMemoryWaveLab\Enemy.cpp(32,1): warning C4715: 'Enemy::isAlive': not all control paths return a value
