@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Chap 3 Lab 1 Combat Unit/Chap 3 Lab 1 Combat Unit.vcxproj" />
+</Solution>
