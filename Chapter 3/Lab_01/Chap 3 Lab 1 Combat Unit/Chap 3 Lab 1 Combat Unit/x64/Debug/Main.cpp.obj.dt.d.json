@@ -128,7 +128,8 @@
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\clocale",
             "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\locale.h",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\ostream",
-            "c:\\users\\kkmat\\documents\\oop-y2-kaimathews\\chapter 3\\lab_01\\chap 3 lab 1 combat unit\\chap 3 lab 1 combat unit\\combatunit.h"
+            "c:\\users\\kkmat\\documents\\oop-y2-kaimathews\\chapter 3\\lab_01\\chap 3 lab 1 combat unit\\chap 3 lab 1 combat unit\\combatunit.h",
+            "c:\\users\\kkmat\\documents\\oop-y2-kaimathews\\chapter 3\\lab_01\\chap 3 lab 1 combat unit\\chap 3 lab 1 combat unit\\archer.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

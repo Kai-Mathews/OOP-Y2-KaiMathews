@@ -48,14 +48,12 @@ nothing
 
 **Predict before running:** what should happen when the inner block ends?
 
-[one sentence]
 
 **What actually appeared in your console?**
-
-```text
-Base unit
-[copy the four following lines from your console]
-```
++ CombatUnit
+Health: 60
+Power: 0
+- CombatUnit
 
 **Why is `m_health` private rather than directly editable from `main()`?**
 
@@ -66,25 +64,40 @@ Base unit
 **Predict before running:** write the order of the two constructor messages and the two destructor messages.
 
 ```text
-[add your prediction]
++ CombatUnit
++ Archer
+Health: 60
+Power: 0
+- Archer
+- CombatUnit
 ```
 
 **Actual order:**
 
 ```text
-[copy the constructor/destructor messages]
++ CombatUnit
+Health: 60
+Power: 0
++ CombatUnit
+Health: 80
+Power: 0
++ Archer
+- Archer
+- CombatUnit
+- CombatUnit
 ```
 
 **Starting health:** [complete]
+60
 
 **Archer attack power:** [complete]
-
+0
 **Why must the Archer constructor initialise `CombatUnit{t_health}` before its own body runs?**
 
 [one or two sentences]
 
 **Can Archer directly access CombatUnit’s private `m_health`? Why?**
-
+no, because it's private
 [one sentence]
 
 ## 04 · Copy or view?
@@ -172,15 +185,15 @@ Please do not invent a fault if none occurred.
 
 ## Optional stretch · VeteranArcher
 
-**Attempted?** [yes / no]
+**Attempted?** [no]
 
-**Predicted attack for arrow power 12 and bonus 3:** [complete / not attempted]
+**Predicted attack for arrow power 12 and bonus 3:** [not attempted]
 
-**Observed:** [complete / not attempted]
+**Observed:** [not attempted]
 
 **Why did you write `Archer::attackPower()` inside the third-level function?**
 
-[one sentence / not attempted]
+[not attempted]
 
 ## Final reflection
 

@@ -4,12 +4,14 @@
 CombatUnit::CombatUnit(int t_health)
 {
 	m_health = t_health;
-	std::cout << "Health is " << m_health << std::endl;
+	std::cout << "+ CombatUnit" << std::endl;
+	std::cout << "Health: " << m_health << std::endl;
+	std::cout << "Power: " << 0 << std::endl;
 }
 
 CombatUnit::~CombatUnit()
 {
-	//std::cout << "object destroyed" << std::endl;
+	std::cout << "- CombatUnit" << std::endl;
 }
 
 int CombatUnit::health() const
@@ -21,3 +23,4 @@ int CombatUnit::attackPower() const
 {
 	return 0;
 }
+
