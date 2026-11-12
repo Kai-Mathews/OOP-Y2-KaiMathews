@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Chapter 3\\Lab_02\\lab 02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{463631A9-6D68-4C82-99F4-6273E79E9149}|lab 02\\lab 02.vcxproj|C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Chapter 3\\Lab_02\\lab 02\\lab 02\\Abilities.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{463631A9-6D68-4C82-99F4-6273E79E9149}|lab 02\\lab 02.vcxproj|solutionrelative:lab 02\\Abilities.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463631A9-6D68-4C82-99F4-6273E79E9149}|lab 02\\lab 02.vcxproj|C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Chapter 3\\Lab_02\\lab 02\\lab 02\\abilities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{463631A9-6D68-4C82-99F4-6273E79E9149}|lab 02\\lab 02.vcxproj|solutionrelative:lab 02\\abilities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463631A9-6D68-4C82-99F4-6273E79E9149}|lab 02\\lab 02.vcxproj|C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Chapter 3\\Lab_02\\lab 02\\lab 02\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{463631A9-6D68-4C82-99F4-6273E79E9149}|lab 02\\lab 02.vcxproj|solutionrelative:lab 02\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Chapter 3\\Lab_02\\lab 02\\lab 02\\Main.cpp",
+              "RelativeDocumentMoniker": "lab 02\\Main.cpp",
+              "ToolTip": "C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Chapter 3\\Lab_02\\lab 02\\lab 02\\Main.cpp",
+              "RelativeToolTip": "lab 02\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-12T17:56:54.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Abilities.cpp",
+              "DocumentMoniker": "C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Chapter 3\\Lab_02\\lab 02\\lab 02\\Abilities.cpp",
+              "RelativeDocumentMoniker": "lab 02\\Abilities.cpp",
+              "ToolTip": "C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Chapter 3\\Lab_02\\lab 02\\lab 02\\Abilities.cpp",
+              "RelativeToolTip": "lab 02\\Abilities.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-12T17:56:33.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "abilities.h",
+              "DocumentMoniker": "C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Chapter 3\\Lab_02\\lab 02\\lab 02\\abilities.h",
+              "RelativeDocumentMoniker": "lab 02\\abilities.h",
+              "ToolTip": "C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Chapter 3\\Lab_02\\lab 02\\lab 02\\abilities.h",
+              "RelativeToolTip": "lab 02\\abilities.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-12T17:56:11.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

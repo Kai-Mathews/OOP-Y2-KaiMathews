@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Lab_02\\EnemyMemoryWaveLab\\",
+  "WorkspaceRootPath": "C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Chapter 2\\Lab_03\\EnemyMemoryWaveLab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4E06C9D-E5EE-45C2-94CF-3CF9CB816016}|EnemyMemoryWaveLab\\EnemyMemoryWaveLab.vcxproj|C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Lab_02\\EnemyMemoryWaveLab\\EnemyMemoryWaveLab\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B4E06C9D-E5EE-45C2-94CF-3CF9CB816016}|EnemyMemoryWaveLab\\EnemyMemoryWaveLab.vcxproj|solutionrelative:EnemyMemoryWaveLab\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B4E06C9D-E5EE-45C2-94CF-3CF9CB816016}|EnemyMemoryWaveLab\\EnemyMemoryWaveLab.vcxproj|C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Chapter 2\\Lab_03\\EnemyMemoryWaveLab\\EnemyMemoryWaveLab\\EnemyWave.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4E06C9D-E5EE-45C2-94CF-3CF9CB816016}|EnemyMemoryWaveLab\\EnemyMemoryWaveLab.vcxproj|solutionrelative:EnemyMemoryWaveLab\\EnemyWave.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4E06C9D-E5EE-45C2-94CF-3CF9CB816016}|EnemyMemoryWaveLab\\EnemyMemoryWaveLab.vcxproj|C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Lab_02\\EnemyMemoryWaveLab\\EnemyMemoryWaveLab\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B4E06C9D-E5EE-45C2-94CF-3CF9CB816016}|EnemyMemoryWaveLab\\EnemyMemoryWaveLab.vcxproj|solutionrelative:EnemyMemoryWaveLab\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4E06C9D-E5EE-45C2-94CF-3CF9CB816016}|EnemyMemoryWaveLab\\EnemyMemoryWaveLab.vcxproj|C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Lab_02\\EnemyMemoryWaveLab\\EnemyMemoryWaveLab\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B4E06C9D-E5EE-45C2-94CF-3CF9CB816016}|EnemyMemoryWaveLab\\EnemyMemoryWaveLab.vcxproj|C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Chapter 2\\Lab_03\\EnemyMemoryWaveLab\\EnemyMemoryWaveLab\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B4E06C9D-E5EE-45C2-94CF-3CF9CB816016}|EnemyMemoryWaveLab\\EnemyMemoryWaveLab.vcxproj|solutionrelative:EnemyMemoryWaveLab\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4E06C9D-E5EE-45C2-94CF-3CF9CB816016}|EnemyMemoryWaveLab\\EnemyMemoryWaveLab.vcxproj|C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Lab_02\\EnemyMemoryWaveLab\\EnemyMemoryWaveLab\\EnemyWave.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B4E06C9D-E5EE-45C2-94CF-3CF9CB816016}|EnemyMemoryWaveLab\\EnemyMemoryWaveLab.vcxproj|solutionrelative:EnemyMemoryWaveLab\\EnemyWave.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B4E06C9D-E5EE-45C2-94CF-3CF9CB816016}|EnemyMemoryWaveLab\\EnemyMemoryWaveLab.vcxproj|C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Chapter 2\\Lab_03\\EnemyMemoryWaveLab\\EnemyMemoryWaveLab\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4E06C9D-E5EE-45C2-94CF-3CF9CB816016}|EnemyMemoryWaveLab\\EnemyMemoryWaveLab.vcxproj|solutionrelative:EnemyMemoryWaveLab\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4E06C9D-E5EE-45C2-94CF-3CF9CB816016}|EnemyMemoryWaveLab\\EnemyMemoryWaveLab.vcxproj|C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Lab_02\\EnemyMemoryWaveLab\\EnemyMemoryWaveLab\\EnemyWave.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B4E06C9D-E5EE-45C2-94CF-3CF9CB816016}|EnemyMemoryWaveLab\\EnemyMemoryWaveLab.vcxproj|solutionrelative:EnemyMemoryWaveLab\\EnemyWave.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B4E06C9D-E5EE-45C2-94CF-3CF9CB816016}|EnemyMemoryWaveLab\\EnemyMemoryWaveLab.vcxproj|C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Chapter 2\\Lab_03\\EnemyMemoryWaveLab\\EnemyMemoryWaveLab\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4E06C9D-E5EE-45C2-94CF-3CF9CB816016}|EnemyMemoryWaveLab\\EnemyMemoryWaveLab.vcxproj|solutionrelative:EnemyMemoryWaveLab\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E06C9D-E5EE-45C2-94CF-3CF9CB816016}|EnemyMemoryWaveLab\\EnemyMemoryWaveLab.vcxproj|C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Chapter 2\\Lab_03\\EnemyMemoryWaveLab\\EnemyMemoryWaveLab\\EnemyWave.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4E06C9D-E5EE-45C2-94CF-3CF9CB816016}|EnemyMemoryWaveLab\\EnemyMemoryWaveLab.vcxproj|solutionrelative:EnemyMemoryWaveLab\\EnemyWave.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,24 +38,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "EnemyWave.h",
-              "DocumentMoniker": "C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Lab_02\\EnemyMemoryWaveLab\\EnemyMemoryWaveLab\\EnemyWave.h",
+              "DocumentMoniker": "C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Chapter 2\\Lab_03\\EnemyMemoryWaveLab\\EnemyMemoryWaveLab\\EnemyWave.h",
               "RelativeDocumentMoniker": "EnemyMemoryWaveLab\\EnemyWave.h",
-              "ToolTip": "C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Lab_02\\EnemyMemoryWaveLab\\EnemyMemoryWaveLab\\EnemyWave.h",
+              "ToolTip": "C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Chapter 2\\Lab_03\\EnemyMemoryWaveLab\\EnemyMemoryWaveLab\\EnemyWave.h",
               "RelativeToolTip": "EnemyMemoryWaveLab\\EnemyWave.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-10-13T09:16:59.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-13T09:16:59.256Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Enemy.h",
-              "DocumentMoniker": "C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Lab_02\\EnemyMemoryWaveLab\\EnemyMemoryWaveLab\\Enemy.h",
+              "DocumentMoniker": "C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Chapter 2\\Lab_03\\EnemyMemoryWaveLab\\EnemyMemoryWaveLab\\Enemy.h",
               "RelativeDocumentMoniker": "EnemyMemoryWaveLab\\Enemy.h",
-              "ToolTip": "C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Lab_02\\EnemyMemoryWaveLab\\EnemyMemoryWaveLab\\Enemy.h",
+              "ToolTip": "C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Chapter 2\\Lab_03\\EnemyMemoryWaveLab\\EnemyMemoryWaveLab\\Enemy.h",
               "RelativeToolTip": "EnemyMemoryWaveLab\\Enemy.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -64,11 +63,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "EnemyWave.cpp",
-              "DocumentMoniker": "C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Lab_02\\EnemyMemoryWaveLab\\EnemyMemoryWaveLab\\EnemyWave.cpp",
+              "DocumentMoniker": "C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Chapter 2\\Lab_03\\EnemyMemoryWaveLab\\EnemyMemoryWaveLab\\EnemyWave.cpp",
               "RelativeDocumentMoniker": "EnemyMemoryWaveLab\\EnemyWave.cpp",
-              "ToolTip": "C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Lab_02\\EnemyMemoryWaveLab\\EnemyMemoryWaveLab\\EnemyWave.cpp",
+              "ToolTip": "C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Chapter 2\\Lab_03\\EnemyMemoryWaveLab\\EnemyMemoryWaveLab\\EnemyWave.cpp",
               "RelativeToolTip": "EnemyMemoryWaveLab\\EnemyWave.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -77,24 +76,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Enemy.cpp",
-              "DocumentMoniker": "C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Lab_02\\EnemyMemoryWaveLab\\EnemyMemoryWaveLab\\Enemy.cpp",
+              "DocumentMoniker": "C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Chapter 2\\Lab_03\\EnemyMemoryWaveLab\\EnemyMemoryWaveLab\\Enemy.cpp",
               "RelativeDocumentMoniker": "EnemyMemoryWaveLab\\Enemy.cpp",
-              "ToolTip": "C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Lab_02\\EnemyMemoryWaveLab\\EnemyMemoryWaveLab\\Enemy.cpp",
+              "ToolTip": "C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Chapter 2\\Lab_03\\EnemyMemoryWaveLab\\EnemyMemoryWaveLab\\Enemy.cpp",
               "RelativeToolTip": "EnemyMemoryWaveLab\\Enemy.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-13T09:16:24.747Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Lab_02\\EnemyMemoryWaveLab\\EnemyMemoryWaveLab\\Main.cpp",
+              "DocumentMoniker": "C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Chapter 2\\Lab_03\\EnemyMemoryWaveLab\\EnemyMemoryWaveLab\\Main.cpp",
               "RelativeDocumentMoniker": "EnemyMemoryWaveLab\\Main.cpp",
-              "ToolTip": "C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Lab_02\\EnemyMemoryWaveLab\\EnemyMemoryWaveLab\\Main.cpp",
+              "ToolTip": "C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Chapter 2\\Lab_03\\EnemyMemoryWaveLab\\EnemyMemoryWaveLab\\Main.cpp",
               "RelativeToolTip": "EnemyMemoryWaveLab\\Main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",

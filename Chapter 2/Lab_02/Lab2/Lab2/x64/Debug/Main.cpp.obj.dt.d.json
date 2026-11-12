@@ -1,7 +1,7 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\kkmat\\documents\\oop-y2-kaimathews\\lab_02\\lab2\\lab2\\main.cpp",
+        "Source": "c:\\users\\kkmat\\documents\\oop-y2-kaimathews\\chapter 2\\lab_02\\lab2\\lab2\\main.cpp",
         "ProvidedModule": "",
         "Includes": [
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\iostream",
@@ -128,8 +128,8 @@
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\clocale",
             "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\locale.h",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\ostream",
-            "c:\\users\\kkmat\\documents\\oop-y2-kaimathews\\lab_02\\lab2\\lab2\\receiver.h",
-            "c:\\users\\kkmat\\documents\\oop-y2-kaimathews\\lab_02\\lab2\\lab2\\beacon.h"
+            "c:\\users\\kkmat\\documents\\oop-y2-kaimathews\\chapter 2\\lab_02\\lab2\\lab2\\receiver.h",
+            "c:\\users\\kkmat\\documents\\oop-y2-kaimathews\\chapter 2\\lab_02\\lab2\\lab2\\beacon.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

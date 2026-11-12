@@ -1,11 +1,11 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\kkmat\\documents\\oop-y2-kaimathews\\lab_02\\lab2\\lab2\\receiver.cpp",
+        "Source": "c:\\users\\kkmat\\documents\\oop-y2-kaimathews\\chapter 2\\lab_02\\lab2\\lab2\\receiver.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "c:\\users\\kkmat\\documents\\oop-y2-kaimathews\\lab_02\\lab2\\lab2\\receiver.h",
-            "c:\\users\\kkmat\\documents\\oop-y2-kaimathews\\lab_02\\lab2\\lab2\\beacon.h",
+            "c:\\users\\kkmat\\documents\\oop-y2-kaimathews\\chapter 2\\lab_02\\lab2\\lab2\\receiver.h",
+            "c:\\users\\kkmat\\documents\\oop-y2-kaimathews\\chapter 2\\lab_02\\lab2\\lab2\\beacon.h",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\cstdlib",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\yvals_core.h",
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\vcruntime.h",

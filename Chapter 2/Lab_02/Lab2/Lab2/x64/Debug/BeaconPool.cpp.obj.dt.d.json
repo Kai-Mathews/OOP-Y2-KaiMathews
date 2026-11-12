@@ -1,10 +1,10 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\kkmat\\documents\\oop-y2-kaimathews\\lab_02\\lab2\\lab2\\beaconpool.cpp",
+        "Source": "c:\\users\\kkmat\\documents\\oop-y2-kaimathews\\chapter 2\\lab_02\\lab2\\lab2\\beaconpool.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "c:\\users\\kkmat\\documents\\oop-y2-kaimathews\\lab_02\\lab2\\lab2\\beaconpool.h"
+            "c:\\users\\kkmat\\documents\\oop-y2-kaimathews\\chapter 2\\lab_02\\lab2\\lab2\\beaconpool.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

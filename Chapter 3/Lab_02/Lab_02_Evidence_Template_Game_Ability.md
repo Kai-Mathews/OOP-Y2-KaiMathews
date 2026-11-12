@@ -1,11 +1,11 @@
 # Chapter 03 · Practical Lab 02 · Evidence
 ## Game ability virtual console
 
-Student identifier: [complete]
+Student identifier: Kai Mathews[complete]
 
-Date (YYYY-MM-DD): [complete]
+Date (YYYY-MM-DD): 2026-11-12[complete]
 
-Visual Studio version: [complete]
+Visual Studio version: 2026 [complete]
 
 Platform Toolset: v145 · ISO C++17 · /W4 · Debug / x64
 
@@ -23,7 +23,7 @@ For each prediction, make your prediction **before** running the code. When the 
 
 ## 01 · Project setup
 
-Project name: [complete]
+Project name: lab 3 [complete]
 
 Check the files you created from scratch:
 
@@ -39,7 +39,7 @@ Check the files you created from scratch:
 - [ ] Debug / x64 selected
 - [ ] The starter program built and printed `Game ability lab`
 
-One project problem I solved, if applicable: [complete / none]
+One project problem I solved, if applicable: [none]
 
 ## 02 · Non-virtual calls
 

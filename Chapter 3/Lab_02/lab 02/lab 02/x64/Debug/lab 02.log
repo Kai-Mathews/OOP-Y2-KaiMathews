@@ -1,0 +1,11 @@
+﻿  Abilities.cpp
+C:\Users\kkmat\Documents\OOP-Y2-KaiMathews\Chapter 3\Lab_02\lab 02\lab 02\Abilities.cpp(21,25): error C3867: 'GameAbility::power': non-standard syntax; use '&' to create a pointer to member
+C:\Users\kkmat\Documents\OOP-Y2-KaiMathews\Chapter 3\Lab_02\lab 02\lab 02\Abilities.cpp(21,25): error C2440: '=': cannot convert from 'int (__cdecl GameAbility::* )(void) const' to 'int'
+      C:\Users\kkmat\Documents\OOP-Y2-KaiMathews\Chapter 3\Lab_02\lab 02\lab 02\Abilities.cpp(21,25):
+      There is no context in which this conversion is possible
+  
+C:\Users\kkmat\Documents\OOP-Y2-KaiMathews\Chapter 3\Lab_02\lab 02\lab 02\Abilities.cpp(21,30): error C2059: syntax error: ';'
+C:\Users\kkmat\Documents\OOP-Y2-KaiMathews\Chapter 3\Lab_02\lab 02\lab 02\Abilities.cpp(22,1): error C2059: syntax error: '}'
+C:\Users\kkmat\Documents\OOP-Y2-KaiMathews\Chapter 3\Lab_02\lab 02\lab 02\Abilities.cpp(21,30): error C2630: ';' found in what should be a comma-separated list
+C:\Users\kkmat\Documents\OOP-Y2-KaiMathews\Chapter 3\Lab_02\lab 02\lab 02\Abilities.cpp(23,1): error C2612: trailing 'end of file' illegal in base/member initializer list
+C:\Users\kkmat\Documents\OOP-Y2-KaiMathews\Chapter 3\Lab_02\lab 02\lab 02\Abilities.cpp(23,1): error C1004: unexpected end-of-file found
