@@ -1,10 +1,10 @@
 # Chapter 03 – Practical Lab 03 – Evidence
 ## Arena Object Inspector
 
-**Student ID:** [complete]  
-**Date (YYYY-MM-DD):** [complete]  
-**Visual Studio version:** [complete]  
-**Repository link (if used):** [complete / not used]
+**Student ID:** Kai Mathews[complete]  
+**Date (YYYY-MM-DD):** 2026-11-12[complete]  
+**Visual Studio version:** 2026[complete]  
+**Repository link (if used):** https://github.com/Kai-Mathews/OOP-Y2-KaiMathews/tree/main/Chapter%203/Lab_03 [complete]
 
 Build settings: v145 · C++17 · `/W4` · `/GR` · `/EHsc` · Debug · x64
 
@@ -20,7 +20,7 @@ Complete this file as you work. Short answers and relevant console excerpts are 
 - [ ] The starting project built and printed `Arena object inspector`.
 
 **If a build problem occurred, what did you fix?**  
-[one sentence / no problem recorded]
+[no problem recorded]
 
 ## 02 · Shared virtual behaviour
 

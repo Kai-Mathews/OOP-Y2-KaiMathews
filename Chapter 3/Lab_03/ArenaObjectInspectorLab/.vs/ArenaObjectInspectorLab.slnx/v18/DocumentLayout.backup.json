@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Chapter 3\\Lab_03\\ArenaObjectInspectorLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85E6DD6A-FA4F-44BE-A692-B5B3ADF11849}|ArenaObjectInspectorLab\\ArenaObjectInspectorLab.vcxproj|C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Chapter 3\\Lab_03\\ArenaObjectInspectorLab\\ArenaObjectInspectorLab\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{85E6DD6A-FA4F-44BE-A692-B5B3ADF11849}|ArenaObjectInspectorLab\\ArenaObjectInspectorLab.vcxproj|solutionrelative:ArenaObjectInspectorLab\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Chapter 3\\Lab_03\\ArenaObjectInspectorLab\\ArenaObjectInspectorLab\\Main.cpp",
+              "RelativeDocumentMoniker": "ArenaObjectInspectorLab\\Main.cpp",
+              "ToolTip": "C:\\Users\\kkmat\\Documents\\OOP-Y2-KaiMathews\\Chapter 3\\Lab_03\\ArenaObjectInspectorLab\\ArenaObjectInspectorLab\\Main.cpp",
+              "RelativeToolTip": "ArenaObjectInspectorLab\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-12T20:05:09.949Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
